@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     'pset1/Sum_of_Two_Values'
+relocations:
+  - { offset: 0x20C42, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x99C30, symBinAddr: 0x100008228, symSize: 0x0 }
+  - { offset: 0x22918, size: 0x8, addend: 0x0, symName: __ZNSt7__debug6vectorIiSaIiEEixEm, symObjAddr: 0x3A8, symBinAddr: 0x100002888, symSize: 0x1E0 }
+  - { offset: 0x22CDE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x12E0, symBinAddr: 0x1000034C0, symSize: 0x2C }
+  - { offset: 0x22D28, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x12E0, symBinAddr: 0x1000034C0, symSize: 0x2C }
+  - { offset: 0x22D63, size: 0x8, addend: 0x0, symName: __Z5solvev, symObjAddr: 0x588, symBinAddr: 0x100002A68, symSize: 0xA00 }
+  - { offset: 0x253EE, size: 0x8, addend: 0x0, symName: __ZZN11__gnu_debug16_Error_formatter5_S_atEPKcjS2_E11__formatter, symObjAddr: 0x1810, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offset: 0x254B7, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE24_M_get_insert_unique_posERS1_.isra.0, symObjAddr: 0x0, symBinAddr: 0x1000024E0, symSize: 0xA0 }
+  - { offset: 0x25638, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS2_ERS1_.isra.0, symObjAddr: 0xA0, symBinAddr: 0x100002580, symSize: 0x108 }
+  - { offset: 0x2572F, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE22_M_emplace_hint_uniqueIJRKSt21piecewise_construct_tSt5tupleIJRS1_EESD_IJEEEEESt17_Rb_tree_iteratorIS2_ESt23_Rb_tree_const_iteratorIS2_EDpOT_.isra.0, symObjAddr: 0x1A8, symBinAddr: 0x100002688, symSize: 0xC0 }
+  - { offset: 0x25B13, size: 0x8, addend: 0x0, symName: __ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE8_M_eraseEPSt13_Rb_tree_nodeIS2_E.isra.0, symObjAddr: 0x268, symBinAddr: 0x100002748, symSize: 0x140 }
+...

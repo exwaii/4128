@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.rkt": "racket",
+        "*.rmd": "markdown",
+        "__locale": "cpp",
+        "iostream": "cpp",
+        "map": "cpp",
+        "ios": "cpp"
+    }
+}

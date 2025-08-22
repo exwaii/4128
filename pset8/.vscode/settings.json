@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.rkt": "racket",
+        "*.rmd": "markdown",
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "map": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "ios": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "set": "cpp",
+        "__tree": "cpp",
+        "__bit_reference": "cpp",
+        "bitset": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.rkt": "racket",
+        "*.rmd": "markdown",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "regex": "cpp",
+        "iosfwd": "cpp"
+    }
+}

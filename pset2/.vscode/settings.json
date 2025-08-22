@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.rkt": "racket",
+        "*.rmd": "markdown",
+        "set": "cpp",
+        "iostream": "cpp",
+        "map": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "optional": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "variant": "cpp",
+        "vector": "cpp",
+        "regex": "cpp",
+        "ios": "cpp"
+    }
+}

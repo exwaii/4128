@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/Users/exwaiii/fun/cp/4128/spar7/a.cpp","tests":[{"id":1754464913046,"input":"3 4 5\n","output":"2.1213203436\n"},{"id":1754464976089,"input":"4500 4500 4500\n","output":"3181.9805153395\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/exwaiii/fun/cp/4128/spar7/a.cpp","group":"local","local":true}

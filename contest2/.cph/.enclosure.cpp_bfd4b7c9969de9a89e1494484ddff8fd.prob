@@ -1,0 +1,1 @@
+{"name":"Local: enclosure","url":"/Users/exwaiii/fun/cp/4128/contest2/enclosure.cpp","tests":[{"id":1752369200095,"input":"2 3 5\n1 1 1\n5 1 1","output":"3"},{"id":1752372756669,"input":"3 3 2\n1 1 1\n1 1 1\n1 1 1","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/exwaiii/fun/cp/4128/contest2/enclosure.cpp","group":"local","local":true}

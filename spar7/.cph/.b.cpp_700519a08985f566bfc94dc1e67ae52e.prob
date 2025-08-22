@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"/Users/exwaiii/fun/cp/4128/spar7/b.cpp","tests":[{"id":1754465798722,"input":"hweolrldo\n2\nhello\nworld\n","output":"2"},{"id":1754465836088,"input":"aabcde\n3\naaec\nabdc\nda","output":"0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/exwaiii/fun/cp/4128/spar7/b.cpp","group":"local","local":true}

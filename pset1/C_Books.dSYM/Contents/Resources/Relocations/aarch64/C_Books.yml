@@ -1,0 +1,29 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     'pset1/C_Books'
+relocations:
+  - { offset: 0x1DEC4, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xB6C18, symBinAddr: 0x10000C228, symSize: 0x0 }
+  - { offset: 0x1F684, size: 0x8, addend: 0x0, symName: __ZNK11__gnu_debug14_Safe_iteratorIN9__gnu_cxx17__normal_iteratorIPiNSt9__cxx19986vectorIiSaIiEEEEENSt7__debug6vectorIiS6_EESt20forward_iterator_tagE14_M_can_advanceElb, symObjAddr: 0xEC0, symBinAddr: 0x100002120, symSize: 0xE0 }
+  - { offset: 0x1FB7D, size: 0x8, addend: 0x0, symName: __ZSt11upper_boundIN11__gnu_debug14_Safe_iteratorIN9__gnu_cxx17__normal_iteratorIPiNSt9__cxx19986vectorIiSaIiEEEEENSt7__debug6vectorIiS7_EESt26random_access_iterator_tagEExET_SF_SF_RKT0_, symObjAddr: 0xFA0, symBinAddr: 0x100002200, symSize: 0x2CCC }
+  - { offset: 0x25C6A, size: 0x8, addend: 0x0, symName: __ZNSt7__debug6vectorIiSaIiEEixEm, symObjAddr: 0x560, symBinAddr: 0x1000017C0, symSize: 0x1E4 }
+  - { offset: 0x2601D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x6380, symBinAddr: 0x100006180, symSize: 0x2C }
+  - { offset: 0x26067, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x6380, symBinAddr: 0x100006180, symSize: 0x2C }
+  - { offset: 0x260A2, size: 0x8, addend: 0x0, symName: __Z5solvev, symObjAddr: 0x3C6C, symBinAddr: 0x100004ECC, symSize: 0x11E4 }
+  - { offset: 0x28F9C, size: 0x8, addend: 0x0, symName: __ZN9__gnu_cxx32__throw_concurrence_unlock_errorEv, symObjAddr: 0x6344, symBinAddr: 0x100006130, symSize: 0x34 }
+  - { offset: 0x29000, size: 0x8, addend: 0x0, symName: __ZN9__gnu_cxx26__concurrence_unlock_errorD0Ev, symObjAddr: 0xA0, symBinAddr: 0x100001300, symSize: 0x40 }
+  - { offset: 0x29022, size: 0x8, addend: 0x0, symName: __ZN9__gnu_cxx26__concurrence_unlock_errorD0Ev, symObjAddr: 0xA0, symBinAddr: 0x100001300, symSize: 0x40 }
+  - { offset: 0x2904B, size: 0x8, addend: 0x0, symName: __ZN9__gnu_cxx26__concurrence_unlock_errorD1Ev, symObjAddr: 0x80, symBinAddr: 0x1000012E0, symSize: 0x20 }
+  - { offset: 0x29087, size: 0x8, addend: 0x0, symName: __ZN9__gnu_cxx30__throw_concurrence_lock_errorEv, symObjAddr: 0x6310, symBinAddr: 0x1000060FC, symSize: 0x34 }
+  - { offset: 0x290EB, size: 0x8, addend: 0x0, symName: __ZN9__gnu_cxx24__concurrence_lock_errorD0Ev, symObjAddr: 0x40, symBinAddr: 0x1000012A0, symSize: 0x40 }
+  - { offset: 0x2910D, size: 0x8, addend: 0x0, symName: __ZN9__gnu_cxx24__concurrence_lock_errorD0Ev, symObjAddr: 0x40, symBinAddr: 0x1000012A0, symSize: 0x40 }
+  - { offset: 0x29136, size: 0x8, addend: 0x0, symName: __ZN9__gnu_cxx24__concurrence_lock_errorD1Ev, symObjAddr: 0x20, symBinAddr: 0x100001280, symSize: 0x20 }
+  - { offset: 0x29176, size: 0x8, addend: 0x0, symName: __ZNK9__gnu_cxx26__concurrence_unlock_error4whatEv, symObjAddr: 0xC, symBinAddr: 0x10000126C, symSize: 0x14 }
+  - { offset: 0x291A1, size: 0x8, addend: 0x0, symName: __ZNK9__gnu_cxx24__concurrence_lock_error4whatEv, symObjAddr: 0x0, symBinAddr: 0x100001260, symSize: 0xC }
+  - { offset: 0x29243, size: 0x8, addend: 0x0, symName: __ZZN11__gnu_debug16_Error_formatter5_S_atEPKcjS2_E11__formatter, symObjAddr: 0x6790, symBinAddr: 0x10000C008, symSize: 0x0 }
+  - { offset: 0x29370, size: 0x8, addend: 0x0, symName: __ZN11__gnu_debug14_Safe_iteratorIN9__gnu_cxx17__normal_iteratorIPiNSt9__cxx19986vectorIiSaIiEEEEENSt7__debug6vectorIiS6_EESt20forward_iterator_tagEC2ERKSD_.part.0, symObjAddr: 0xE0, symBinAddr: 0x100001340, symSize: 0x240 }
+  - { offset: 0x293A2, size: 0x8, addend: 0x0, symName: __ZN11__gnu_debug14_Safe_iteratorIN9__gnu_cxx17__normal_iteratorIPiNSt9__cxx19986vectorIiSaIiEEEEENSt7__debug6vectorIiS6_EESt20forward_iterator_tagEC2ERKSD_.part.0, symObjAddr: 0xE0, symBinAddr: 0x100001340, symSize: 0x240 }
+  - { offset: 0x296E8, size: 0x8, addend: 0x0, symName: __ZN11__gnu_debugneERKNS_14_Safe_iteratorIN9__gnu_cxx17__normal_iteratorIPiNSt9__cxx19986vectorIiSaIiEEEEENSt7__debug6vectorIiS6_EESt26random_access_iterator_tagEESF_.part.0, symObjAddr: 0x320, symBinAddr: 0x100001580, symSize: 0x240 }
+  - { offset: 0x29714, size: 0x8, addend: 0x0, symName: __ZN11__gnu_debugneERKNS_14_Safe_iteratorIN9__gnu_cxx17__normal_iteratorIPiNSt9__cxx19986vectorIiSaIiEEEEENSt7__debug6vectorIiS6_EESt26random_access_iterator_tagEESF_.part.0, symObjAddr: 0x320, symBinAddr: 0x100001580, symSize: 0x240 }
+  - { offset: 0x29A68, size: 0x8, addend: 0x0, symName: __ZN11__gnu_debugneERKNS_14_Safe_iteratorIN9__gnu_cxx17__normal_iteratorIPiNSt9__cxx19986vectorIiSaIiEEEEENSt7__debug6vectorIiS6_EESt26random_access_iterator_tagEESF_, symObjAddr: 0x744, symBinAddr: 0x1000019A4, symSize: 0x2BC }
+  - { offset: 0x29E53, size: 0x8, addend: 0x0, symName: __ZN11__gnu_debugmiERKNS_14_Safe_iteratorIN9__gnu_cxx17__normal_iteratorIPiNSt9__cxx19986vectorIiSaIiEEEEENSt7__debug6vectorIiS6_EESt26random_access_iterator_tagEESF_, symObjAddr: 0xA00, symBinAddr: 0x100001C60, symSize: 0x4C0 }
+...

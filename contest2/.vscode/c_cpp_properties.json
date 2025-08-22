@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "defines": [
+        "NDEBUG"
+      ],
+      "includePath": [
+        "${workspaceFolder}/src",
+        "/Library/Frameworks/R.framework/Resources/include",
+        "/opt/R/arm64/include"
+      ],
+      "compilerPath": "/opt/homebrew/opt/llvm/bin/clang++",
+      "cStandard": "${default}",
+      "cppStandard": "gnu++17",
+      "intelliSenseMode": "macos-clang-arm64"
+    }
+  ],
+  "version": 4
+}
